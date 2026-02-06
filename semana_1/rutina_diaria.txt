@@ -1,0 +1,41 @@
+1.Inicio
+
+1. Despertarme 
+2. Levantarme e ir al baño
+    1. Sino tengo ganar de ir  al baño, pasar al siguiente paso.
+3. Bañarme y lavarme los dientes
+4. Si tengo Jabon, shampoo y pasta de dientes
+    1. Proceder
+5. Sino tengo algun insumo necesario, buscarlo en la repisa para luego bnañarme
+6. Salir del baño y secarme
+7. Vestirme con ropa de gimnasio
+8. Buscar ropa en la gabeta, sino hay buscar en el perchero o en el mueble
+9. Ir a la cocina a prepararme desayuno liviano
+    1. Abrir la nevera
+    2. Tomar yogurt, granola y un banano
+    3. Buscar un cuchillo limpio
+    
+    Sino
+    
+    iv. Lavar el cuchillo sucio
+    
+    v. Cortar la fruta en trozos
+    
+    vi. Servir la comida
+    
+10. Comer ese desayuno
+11. Mientras como el desayuno:
+    1. Ver un video en YT
+    2. Sino encuentro un videos que me guste:
+        1. ver una serie en Netflix
+12. Ir al gimnasio
+13. Si mi carro tiene la suficiente gasolina 
+    1. ir directo sin desviaciones
+14. Sino ir a la gasolinera a rellenar y revisar el nivel de aire de las llantas
+15. Volver a la casa 
+16. Estudiar el programa de lyfter
+17. Preparar almuerzo
+18. Almorzar
+19. Ir a donde mi novia
+20. Volver a mi casa
+21. Fin.
