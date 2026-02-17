@@ -6,4 +6,4 @@ show_message()
 
 print(message)
 
-
+NameError: name 'message' is not defined

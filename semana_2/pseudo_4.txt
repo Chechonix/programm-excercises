@@ -1,0 +1,17 @@
+1. Inicio
+2. Definir `primero` 
+3. Definir `segundo`
+4. Mostrar “Ingrese primer numero”
+5. Pedir `primero` 
+6. Mostrar “Ingrese primer numero”
+7. Pedir `segundo`
+8. Si (`primero` < `segundo`) entonces:
+    1. Mostar `primero`
+    2. Mostar `segundo`
+9. Sino:
+    1. Si (`primero` **>** `segundo`) entonces:
+        1. Mostar `segundo`
+        2. Mostar `primero`
+        3. Finsi
+10. FinSi
+11. Fin

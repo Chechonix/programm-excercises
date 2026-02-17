@@ -1,0 +1,14 @@
+Method	Description
+read()	Reads and returns the entire content of the file as a single string.
+readline()	Reads and returns only the next line of the file.
+readlines()	Reads the whole file and returns a list where each element is a line.
+write()	Writes text into the file. It replaces its content if opened in "w" mode.
+writelines()	Writes multiple lines to the file from a list or any iterable.
+close()	Closes the file and frees resources.
+flush()	Forces written data to be saved on disk immediately.
+seek(pos)	Moves the file pointer to a specific position.
+tell()	Returns the current position of the file pointer.
+truncate(size)	Resizes the file to the specified size (shortens or expands).
+readable()	Returns True if the file allows reading.
+writable()	Returns True if the file allows writing.
+seekable()	Returns True if the file allows repositioning of the
