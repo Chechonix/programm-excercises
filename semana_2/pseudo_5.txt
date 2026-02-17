@@ -1,0 +1,9 @@
+1. Inicio.
+2. Definir  velocidad_km/h
+3. Definir  velocidad_m/s
+4. Mostrar “Ingrese velocidad en km/h”
+5. Pedir velocidad_km/h
+    1. velocidad_m/s **=**velocidad_km/h * **0.2778**
+6. Mostrar “ La velocidad m/s es de:”
+7. Mostrar  velocidad_m/s
+8. Fin.

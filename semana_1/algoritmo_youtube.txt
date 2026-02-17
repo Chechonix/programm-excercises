@@ -1,0 +1,8 @@
+1.Inicio
+
+2.Abrir el navegador
+
+1. Ingresar a youtube.com
+2. Escribir el titulo del video deseado para ver
+3. Reproducir el video
+4. Fin

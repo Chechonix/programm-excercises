@@ -1,0 +1,20 @@
+1. Inicio
+
+1. Definir tiempo_en_segundos
+2. Definir segundos_faltantes
+3. Mostrar “Ingrese cantidad de tiempo en segundos”
+4. Pedir tiempo_en_segundos
+5. Si (tiempo_en_segundos < 600) entonces: 
+    1. segundos_faltantes= 600-tiempo_en_segundos
+        1. Mostrar “Los segundos faltantes para 10 minutos son”
+        2. Mostrar segundos_faltantes
+6. Sino:
+    1. Si (tiempo_en_segundos **>** 600) entonces:
+        1. Mostar “Mayor”
+    2. Finsi
+7. Sino:
+    1. Si (tiempo_en_segundos **=** 600) entonces:
+        1. Mostar “Igual”
+    2. Finsi
+8. Finsi
+9. Fin
